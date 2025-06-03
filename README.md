@@ -1,6 +1,7 @@
 # Parallel Computing Projects in C
 
 This repository contains two projects demonstrating the use of multi-threading (with Pthreads) and distributed computing (with MPI) to solve computational problems using C.
+
 Note: This program is ran on Linux and may not be compatible with Windows, Mac, or non-Unix systems.
 
 ## Problem 1: MPI-Based Count Sort
